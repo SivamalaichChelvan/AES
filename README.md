@@ -30,5 +30,5 @@ return 0;
 <img width="1845" height="546" alt="image" src="https://github.com/user-attachments/assets/a1cb7c87-9a62-49db-9b73-eb733249106c" />
 
 # RESULT:
-
+The program is executed successfully.
 
